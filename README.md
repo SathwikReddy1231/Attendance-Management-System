@@ -60,6 +60,4 @@ python main.py
 * Login System
 * Face Recognition Attendance
 
-## Author
 
-Sathwik Reddy
